@@ -19,6 +19,31 @@
 ## Client List
 ![Clients](clients.png)
 
+## Create Client List
+![Clients](create-client.png)
+
+## Client List created
+![Clients](client-creates.png)
+
+
+## update Client List
+![Clients](client-edit.png)
+
+## Client List Updated
+![Clients](edit-client.png)
+
+## delete Client List 
+![Clients](delete-client.png)
+
+## Client List deleted
+![Clients](client-deleted.png)
+
+## Search Client List
+![Clients](search-clients.png)
+
+
+## Pagination Client List
+![Clients](pagination.png)
 
 
 ## About Laravel
